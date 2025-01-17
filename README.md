@@ -1,5 +1,5 @@
 # telegram bot beautyseason
-# to run it 
+# to run it
 pip install requirements
 
 python main.py
